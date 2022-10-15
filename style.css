@@ -23,3 +23,7 @@ a{
 a:hover{
     color: red;
 }
+
+.copyright{
+    text-align: right;
+}

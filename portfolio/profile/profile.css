@@ -128,6 +128,7 @@ main{
 
 section{
   margin: 150px 0;
+  overflow: hidden;
 }
 
 /* Start about section */

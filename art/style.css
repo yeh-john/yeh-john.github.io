@@ -1,0 +1,46 @@
+*{
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #24252a;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+main{
+    text-align: center;
+    margin-bottom: 150px;
+
+    font-family: "Helvetica Neue",Arial,sans-serif;
+    font-weight: 400;
+    color: white;
+    font-style: normal;
+    letter-spacing: 9px;
+    font-size: 28px;
+}
+
+
+
+.artwork{
+    margin: 100px 0 20px 0;
+    width: 60%;
+}
+
+.name{
+    margin-top: 3px;
+    font-size: 11px;
+    letter-spacing: 6px;
+    margin-bottom: 40px;
+}
+
+.about_art{
+    letter-spacing: 2px;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    line-height: 26px;
+}

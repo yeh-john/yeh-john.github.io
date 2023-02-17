@@ -44,3 +44,15 @@ main{
     text-align: center;
     line-height: 26px;
 }
+
+.portfolio{
+    font-family:"Helvetica Neue",Arial,sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+
+footer a{
+    text-decoration: underline;
+}
